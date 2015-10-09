@@ -1,0 +1,8 @@
+{
+  "name": "flex-grid",
+  "version": "0.1.0",
+  "description": "A flexbox based CSS grid system",
+  "repository": "https://github.com/mmcbride1007/flex-grid",
+  "license": "MIT",
+  "main": "grid.css"
+}
